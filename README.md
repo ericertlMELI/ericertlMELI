@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align='center'> Hola, soy Eric 👋 🧑🏽‍💻 </h2>
 
-<!--
-**ericertlMELI/ericertlMELI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp> Soy desarrollador iOS en Mercadolibre en Buenos Aires, Argentina. 
+  </samp>
+  <br>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="mailto:eric.ertl@mercadolibre.com?subject=Hola%20Eric"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h4 align='center'> 🔭   Actualmente soy parte del equipo de PX</h4>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/swift%20-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/[obj c]%20-%23306bc2.svg?&style=flat-square" />&nbsp;&nbsp;
+</p>
+<hr>
